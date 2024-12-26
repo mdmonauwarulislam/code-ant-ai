@@ -7,6 +7,8 @@
 
 This project is my submission for the Frontend Developer Internship task provided by CodeAnt AI, a Y Combinator-backed startup revolutionizing code quality and security. The goal of this assignment is to implement a functional frontend based on the provided Figma design, using **ReactJS**, **Tailwind CSS** while adhering to best practices for clean and maintainable code.
 
+**Live Link :** https://github.com/mdmonauwarulislam/code-ant-ai
+
 ---
 
 ## Objective
@@ -88,8 +90,8 @@ To set up and run the project locally:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-repo-link>.git
-   cd code-ant
+   git clone https://github.com/mdmonauwarulislam/code-ant-ai
+   cd code-ant-ai
    ```
 
 2. **Install Dependencies**  
